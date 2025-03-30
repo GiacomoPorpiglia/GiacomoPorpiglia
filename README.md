@@ -83,3 +83,6 @@ Welcome to my GitHub profile! 🚀
 <h3 align="center">
 ✨ _Feel free to explore my repositories and contribute!_ 🚀
 </h3>
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=GiacomoPorpiglia&label=Profile%20views&color=blueviolet&style=flat" alt="GiacomoPorpiglia" /> 
+</p>
