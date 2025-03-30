@@ -11,7 +11,7 @@ Passionate about AI, Machine Learning and Computer Vision.<br>
 Welcome to my GitHub profile! 🚀
 </h3>
 <div align="center">
-<a href="https://www.linkedin.com/in/giacomo-porpiglia-599173296/">
+<a href="https://www.linkedin.com/in/giacomo-porpiglia-599173296/" target="_blank">
   <img alt="LinkedIn profile" width="64px" src="https://img.icons8.com/nolan/128/linkedin.png" />
 </a>
 </div>
