@@ -6,7 +6,7 @@ I'm Giacomo Porpiglia
 
 
 
-<h3 align="center">BSc in Computer Engineering @Politecnico di Torino.<br>
+<h3 align="center">MSc in Computer Science @EPFL<br>
 Passionate about AI, Machine Learning and Computer Vision.<br>
 Welcome to my GitHub profile! 🚀
 </h3>
