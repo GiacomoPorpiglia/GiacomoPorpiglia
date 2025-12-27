@@ -67,19 +67,6 @@ Welcome to my GitHub profile! 🚀
 </div>
 
 
-
-<h2 align="center">
-📊 GitHub Stats
-</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiacomoPorpiglia&show_icons=true&locale=en&theme=radical"
-    alt="GiacomoPorpiglia"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiacomoPorpiglia&show_icons=true&layout=compact&locale=en&theme=radical"
-    alt="GiacomoPorpiglia"/>
-</div>
-<br>
 <h3 align="center">
 ✨ _Feel free to explore my repositories and contribute!_ 🚀
 </h3>
